@@ -44,7 +44,7 @@ This project uses Microsoft Power BI to analyse fraud-related data and present i
 
 ## Project Files
 * `Fraud_Analysis_Dashboard.pbix`: Power BI report file.
-* `/screenshots`: visual previews of the three report pages.
+*  visual previews of the three report pages.
 
 ## Disclaimer
 This project is intended for educational and portfolio purposes. Insights derived from the synthetic dataset (pages 1 and 2) should not be interpreted as actual real-world fraud statistics. Page 3 is based on publicly reported RBI figures.
