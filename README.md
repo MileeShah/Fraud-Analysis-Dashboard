@@ -5,10 +5,15 @@
 This project uses Microsoft Power BI to analyse fraud-related data and present insights through interactive dashboards. It focuses on exploring fraud patterns in card transactions, analysing relevant metrics, and communicating findings through data visualisation. The report also includes a state-wise view of reported bank frauds in India.
 
 ## Dashboard Preview
+Transaction Analysis
 
 <img width="1209" height="644" alt="image" src="https://github.com/user-attachments/assets/afa1a942-f866-40d0-9756-d9a53ac1d0b1" />
 
+Common Patterns
+
 <img width="1221" height="637" alt="image" src="https://github.com/user-attachments/assets/68ecfb6f-680a-431b-9115-c2271b6c3d4b" />
+
+State wise Analysis
 
 <img width="1241" height="636" alt="image" src="https://github.com/user-attachments/assets/23bff33e-4634-4ead-abe6-bcaa47220807" />
 
