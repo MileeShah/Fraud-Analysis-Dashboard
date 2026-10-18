@@ -1,4 +1,4 @@
-<img width="1534" height="863" alt="image" src="https://github.com/user-attachments/assets/9c5402ab-ff34-4303-a6af-9ec2beab4bc0" />
+
 # Fraud Analysis Dashboard | Power BI
 
 ## Project Overview
@@ -36,7 +36,9 @@ This project uses Microsoft Power BI to analyse fraud-related data and present i
 ## Disclaimer
 This project is intended for educational and portfolio purposes. Insights derived from the synthetic dataset (pages 1 and 2) should not be interpreted as actual real-world fraud statistics. Page 3 is based on publicly reported RBI figures.
 <img width="1209" height="644" alt="image" src="https://github.com/user-attachments/assets/afa1a942-f866-40d0-9756-d9a53ac1d0b1" />
+
 <img width="1221" height="637" alt="image" src="https://github.com/user-attachments/assets/68ecfb6f-680a-431b-9115-c2271b6c3d4b" />
+
 <img width="1241" height="636" alt="image" src="https://github.com/user-attachments/assets/23bff33e-4634-4ead-abe6-bcaa47220807" />
 
 
