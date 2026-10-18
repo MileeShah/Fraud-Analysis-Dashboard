@@ -1,6 +1,4 @@
-Here's the version with `#` headings, ready to paste into your `README.md`.
 
-```markdown
 # Fraud Analysis Dashboard | Power BI
 
 ## Project Overview
