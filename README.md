@@ -4,6 +4,14 @@
 ## Project Overview
 This project uses Microsoft Power BI to analyse fraud-related data and present insights through interactive dashboards. It focuses on exploring fraud patterns in card transactions, analysing relevant metrics, and communicating findings through data visualisation. The report also includes a state-wise view of reported bank frauds in India.
 
+## Dashboard Preview
+
+<img width="1209" height="644" alt="image" src="https://github.com/user-attachments/assets/afa1a942-f866-40d0-9756-d9a53ac1d0b1" />
+
+<img width="1221" height="637" alt="image" src="https://github.com/user-attachments/assets/68ecfb6f-680a-431b-9115-c2271b6c3d4b" />
+
+<img width="1241" height="636" alt="image" src="https://github.com/user-attachments/assets/23bff33e-4634-4ead-abe6-bcaa47220807" />
+
 ## Objectives
 * Analyse fraud-related data to identify patterns and trends.
 * Explore key metrics associated with fraud, such as fraud rate, fraud amount and recovery rate.
@@ -35,11 +43,11 @@ This project uses Microsoft Power BI to analyse fraud-related data and present i
 
 ## Disclaimer
 This project is intended for educational and portfolio purposes. Insights derived from the synthetic dataset (pages 1 and 2) should not be interpreted as actual real-world fraud statistics. Page 3 is based on publicly reported RBI figures.
-<img width="1209" height="644" alt="image" src="https://github.com/user-attachments/assets/afa1a942-f866-40d0-9756-d9a53ac1d0b1" />
 
-<img width="1221" height="637" alt="image" src="https://github.com/user-attachments/assets/68ecfb6f-680a-431b-9115-c2271b6c3d4b" />
 
-<img width="1241" height="636" alt="image" src="https://github.com/user-attachments/assets/23bff33e-4634-4ead-abe6-bcaa47220807" />
+
+
+
 
 
 
